@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+ text-align: center;
+}
+img {
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+}
+nav {
+  text-align: center;
+  padding: 20px;
+}
+a{
+  background-color: grey;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+#vad {
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#details{
+display: flex;
+justify-content: space-around;
+background-color: orangered;
+}
